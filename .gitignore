@@ -1,0 +1,9 @@
+# Local environment wrapper
+powershell.bat
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
